@@ -1,1 +1,8 @@
-testing
+//testing
+
+#include<iostream>
+
+int main(){
+  std::cout<<"Hi Github"<<std::endl;
+  return 0;
+}
